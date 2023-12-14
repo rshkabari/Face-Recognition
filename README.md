@@ -48,4 +48,4 @@ Email: rshkabari@gmail.com
 Project Link: https://github.com/rshkabari/Face-Recognition
 
 ## License
-This project is not currently under any specific open-source license. If you decide to add a license, update this section to link to the LICENSE file in the repository.
+This project is not currently under any specific open-source license.
